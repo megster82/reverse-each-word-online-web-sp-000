@@ -3,3 +3,4 @@ def reverse_each_word(string_argument)
   puts "Hello there, and how are you?"
 end
 end
+reverse_each_word(string_argument)
